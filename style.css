@@ -296,6 +296,10 @@ h1:hover::before {
 
     .jewelry-catalog{
         justify-content: flex-end;
+        display: flex;
+        flex-direction: row;
+        justify-content: left;
+        margin: 0%;
     }
     .menu-bar{
         display:flex;
