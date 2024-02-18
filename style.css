@@ -279,7 +279,7 @@ iframe , .youtube h3{
         padding: 0;
         margin: 0;
         position: absolute;
-        background-image: url("/ARJ/Images/webbanner-small.jpg");
+        background-image: url("./webbanner-small.jpg");
         background-size: cover;
     }
 
