@@ -280,7 +280,7 @@ iframe , .youtube h3{
         margin: 0;
         position: absolute;
         background-image: url("./webbanner-small.jpg");
-        height: 100%;
+        height: 350px;
         background-size: cover;
     }
 
