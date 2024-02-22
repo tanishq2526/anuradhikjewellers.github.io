@@ -302,18 +302,18 @@ iframe , .youtube h3{
     }
 
     .jewelry-catalog{
-        justify-content: flex-end;
+        justify-content: flex-start;
         display: flex;
         flex-direction: row;
         justify-content: left;
-        margin: 0%;
+        margin: 0;
     }
     .menu-bar{
         display:flex;
     }
 
     .dropdown-content{
-        width: 495px;
+        width: 100%;
         text-align: center;
         text-decoration: none;
     }
@@ -323,23 +323,10 @@ iframe , .youtube h3{
     }
 
     .contact{
-        justify-content: start;
-        display: flex;
-        flex-direction: column;
+        display: none;
     }
 
-    .mail{
-        margin-left: 150px;
-    }
-
-    iframe, .youtube h3{
-        width: 450px;
-        margin: 10px;
-        height: auto;
-        
-    }
 }
-
 @media (max-width: 820px) {
     h1{
         padding-top: 230px;
