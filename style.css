@@ -290,7 +290,7 @@ iframe , .youtube h3{
     }
 
      h1{
-        margin-top: 0px;
+        margin-top: -20px;
     }
 
     h1::before{
@@ -298,7 +298,7 @@ iframe , .youtube h3{
     }
 
     .box, .box img{
-        width: 400px;
+        width: 350px;
     }
 
     .jewelry-catalog{
