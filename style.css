@@ -324,7 +324,18 @@ iframe , .youtube h3{
     }
 
     .contact{
+        display:contents;
+    }
+
+    section .mail{
         display: none;
+    }
+
+    .youtube{
+        display: flex;
+        align-items: center;
+        height: auto;
+        width: 450px;
     }
 
 }
