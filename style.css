@@ -323,8 +323,7 @@ iframe , .youtube h3{
     }
 
     .contact{
-        justify-content: center;
-        text-align:center;
+        justify-content: start;
         display: flex;
         flex-direction: column;
     }
