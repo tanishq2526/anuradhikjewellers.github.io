@@ -288,6 +288,7 @@ iframe , .youtube h3{
 
     .image{
         display: contents;
+        width: calc(100% - 20px);
     }
 
      h1{
@@ -303,11 +304,14 @@ iframe , .youtube h3{
     }
 
     .jewelry-catalog{
-        justify-content: flex-start;
+        justify-content: space-between;
+        align-content: center;
+        align-items: center;
         display: flex;
         flex-direction: row;
-        justify-content: left;
-        margin: 0;
+        justify-content: center;
+        margin: 0px 10px;
+        width: calc(100% - 20px);
     }
     .menu-bar{
         display:flex;
@@ -324,7 +328,7 @@ iframe , .youtube h3{
     }
 
     .contact{
-        display:contents;
+        display:grid;
     }
 
     section .mail{
@@ -332,10 +336,7 @@ iframe , .youtube h3{
     }
 
     .youtube{
-        display: flex;
-        align-items: center;
-        height: auto;
-        width: 450px;
+        display: none;
     }
 
 }
