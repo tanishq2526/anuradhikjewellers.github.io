@@ -1,19 +1,23 @@
-**Anuradhik Jewellers 
-A basic jewellery‑retail website using HTML, CSS
+##*🛍️ Anuradhik Jewellers*##
+A basic jewellery retail website built using HTML and CSS, inspired by modern e-commerce layouts and styling.
 
-##🛠️ What’s Inside
-Static landing/home page
-Product listing & product details pages
+🛠️ What’s Inside
+Static Landing/Home Page
 
-Consistent branding and styling, including fonts, colours, and page title
+Product Listing and Product Details Pages
 
-##📋 Tech Stack
-HTML
-CSS
+Consistent Branding and Styling
 
-**##🧠 Why This Project Matters
-Great learning exercise for HTML, CSS, and front-end JS
+Custom fonts, colors, and page titles
 
-Showcases implementation of client-side routing
+📋 Tech Stack
+HTML5
 
-Helps grasp real-world essentials of an e‑commerce flow
+CSS3
+
+🧠 Why This Project Matters
+A great learning exercise for HTML, CSS, and front-end fundamentals
+
+Showcases client-side layout and structure without JavaScript
+
+Helps understand the essential flow of an e-commerce website
